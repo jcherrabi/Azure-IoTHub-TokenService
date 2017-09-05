@@ -1,0 +1,15 @@
+{
+  "name": "simulator",
+  "version": "0.0.1",
+  "description": "Simulates secured IoT device",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Valery Jacobs",
+  "license": "MIT",
+  "dependencies": {
+    "azure-iot-device": "^1.1.17",
+    "azure-iot-device-mqtt": "^1.1.17"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "tokenservice",
+  "version": "0.0.1",
+  "description": "Hands out tokens to IoT Devices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Valery Jacobs",
+  "license": "MIT",
+  "dependencies": {
+    "azure-iothub": "^1.1.15",
+    "restify": "^5.2.0"
+  }
+}

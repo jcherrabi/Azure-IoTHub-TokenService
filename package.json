@@ -1,0 +1,28 @@
+{
+  "name": "azure-iothub-tokenservice",
+  "version": "0.0.1",
+  "description": "Implementation of a token service for Azure IoT Hub devices that need custom authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valeryjacobs/Azure-IoTHub-TokenService.git"
+  },
+  "keywords": [
+    "token",
+    "service",
+    "iot",
+    "hub",
+    "SAS",
+    "security",
+    "iot"
+  ],
+  "author": "Valery Jacobs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valeryjacobs/Azure-IoTHub-TokenService/issues"
+  },
+  "homepage": "https://github.com/valeryjacobs/Azure-IoTHub-TokenService#readme"
+}
